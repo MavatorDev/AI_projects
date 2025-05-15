@@ -13,4 +13,4 @@ ture, and data modifications. Finally, adaptations to
  understanding of the strengths and limitations of VGG
  and ResNet to ultimately contribute to more efficient
  and effective strategies for image classification.
- [Some title here](report.pdf)
+ [You can find here the detailed report](report.pdf)
