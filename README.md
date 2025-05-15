@@ -7,7 +7,7 @@ This repository contains a collection of Artificial Intelligence projects develo
 | Folder | Description |
 |--------|-------------|
 | `computer_vision/` | A computer vision project focused on image processing and analysis. |
-| `genetic_algorithm/` | Implementation of a genetic algorithm for optimization or learning tasks. |
+| `genetic_algorithm/` | Implementation of a genetic algorithm for a vowel classification project using a custom neural network. |
 | `ros_python/src/` | Python scripts integrated with ROS (Robot Operating System). |
 | `vgg_resnet_implementation/` | Custom implementation of CNN architectures like VGG and ResNet. |
 
